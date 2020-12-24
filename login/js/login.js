@@ -7,3 +7,6 @@ function login() {
 		document.location.href="https://orionbs.fr";
 	}
 };
+function loginOver() {
+	console.log("Le button est écrasé !")
+}
